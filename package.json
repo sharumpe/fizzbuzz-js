@@ -1,0 +1,16 @@
+{
+  "name": "fizzbuzz-js",
+  "version": "1.0.0",
+  "description": "Over-engineered Javascript Fizzbuzz",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "start": "node fizzbuzz.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sharumpe/fizzbuzz-js.git"
+  },
+  "author": "Tim McLaughlin",
+  "license": "ISC"
+}
